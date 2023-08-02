@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h5 {
+  @apply opacity-50;
+}
+
+h4 {
+  @apply opacity-90;
+}
+
+h3 {
+  @apply font-bold;
+}
+
+.profile-img {
+  @apply rounded-full ring-1 ring-purple-400 h-10;
+}
+
+.box {
+  @apply p-10 rounded-xl;
+}
