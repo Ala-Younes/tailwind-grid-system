@@ -7,14 +7,17 @@
 
 ## Screenshots
 
-- Large Screens
-  ![Large Screens](images/lg-screen.png)
+- Caption Large Screens
 
-- Medium Screens
-  ![Medium Screens](images/md-screen.png)
+![Large Screens](images/lg-screen.png)
 
-- Small Screens
-  ![Small Screens](images/sm-screen.png)
+- Caption Medium Screens
+
+![Medium Screens](images/md-screen.png)
+
+- Caption Small Screens
+
+![Small Screens](images/sm-screen.png)
 
 ## Features
 
